@@ -1,0 +1,14 @@
+C:\Learnings\RailwayReservation_CA\obj\Debug\net8.0\RailwayReservation_CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\RailwayReservation_CA\obj\Debug\net8.0\RailwayReservation_CA.AssemblyInfoInputs.cache
+C:\Learnings\RailwayReservation_CA\obj\Debug\net8.0\RailwayReservation_CA.AssemblyInfo.cs
+C:\Learnings\RailwayReservation_CA\obj\Debug\net8.0\RailwayReservation_CA.csproj.CoreCompileInputs.cache
+C:\Learnings\RailwayReservation_CA\bin\Debug\net8.0\RailwayReservation_CA.exe
+C:\Learnings\RailwayReservation_CA\bin\Debug\net8.0\RailwayReservation_CA.deps.json
+C:\Learnings\RailwayReservation_CA\bin\Debug\net8.0\RailwayReservation_CA.runtimeconfig.json
+C:\Learnings\RailwayReservation_CA\bin\Debug\net8.0\RailwayReservation_CA.dll
+C:\Learnings\RailwayReservation_CA\bin\Debug\net8.0\RailwayReservation_CA.pdb
+C:\Learnings\RailwayReservation_CA\obj\Debug\net8.0\RailwayReservation_CA.dll
+C:\Learnings\RailwayReservation_CA\obj\Debug\net8.0\refint\RailwayReservation_CA.dll
+C:\Learnings\RailwayReservation_CA\obj\Debug\net8.0\RailwayReservation_CA.pdb
+C:\Learnings\RailwayReservation_CA\obj\Debug\net8.0\RailwayReservation_CA.genruntimeconfig.cache
+C:\Learnings\RailwayReservation_CA\obj\Debug\net8.0\ref\RailwayReservation_CA.dll
